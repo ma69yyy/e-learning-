@@ -1,0 +1,19 @@
+{
+  "name": "EduVantage Learning Platform",
+  "short_name": "EduVantage",
+  "description": "Learn at your pace with accessible courses, lessons, quizzes, and progress tracking.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#183a68",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icons/eduvantage-pwa.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

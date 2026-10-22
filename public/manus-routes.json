@@ -1,0 +1,19 @@
+{
+  "routes": [
+    { "path": "/", "title": "Home" },
+    { "path": "/courses", "title": "Course Catalog" },
+    { "path": "/course/:id", "title": "Course Details" },
+    { "path": "/login", "title": "Student Portal" },
+    { "path": "/enrollment/:id", "title": "Course Enrollment" },
+    { "path": "/learning", "title": "Learning Dashboard" },
+    { "path": "/learning/materials", "title": "Learning Materials" },
+    { "path": "/learning/progress", "title": "Progress Tracking" },
+    { "path": "/learning/quiz", "title": "Course Quiz" },
+    { "path": "/learning/assignments", "title": "Assignments" },
+    { "path": "/learning/certificate", "title": "Certificate" },
+    { "path": "/quiz", "title": "Quiz" },
+    { "path": "/assignments", "title": "Assignments" },
+    { "path": "/certificate", "title": "Certificate" },
+    { "path": "/profile", "title": "Student Profile" }
+  ]
+}

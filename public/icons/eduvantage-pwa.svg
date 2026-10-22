@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">EduVantage</title>
+  <rect width="512" height="512" rx="112" fill="#183a68"/>
+  <path d="M256 383c-44-31-91-45-145-45V157c56 0 105 15 145 48 40-33 89-48 145-48v181c-54 0-101 14-145 45Z" fill="#f7f9fc"/>
+  <path d="M256 205v178M141 157c43 0 82 8 115 25m115-25c-43 0-82 8-115 25" fill="none" stroke="#79a7ef" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"/>
+  <path d="M182 261h44m-44 38h44m60-38h44m-44 38h44" fill="none" stroke="#183a68" stroke-linecap="round" stroke-width="13"/>
+</svg>
